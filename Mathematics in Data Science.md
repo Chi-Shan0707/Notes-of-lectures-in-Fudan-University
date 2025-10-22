@@ -68,3 +68,12 @@ problems-models-algorithms
 ## knowledge
 1. 知道的知识，和能让你解决问题的知识<br>
 2. 要想解决问题，必须整合知识，即便是数学学科内部
+
+
+
+
+***
+
+问答环节
+大语言模型 生成模型 非监督是统计问题/supervised是逼近问题<br>
+level setter simple funtion,追求simple function
