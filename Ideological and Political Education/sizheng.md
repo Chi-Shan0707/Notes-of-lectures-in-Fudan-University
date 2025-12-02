@@ -1,9 +1,9 @@
-## First
+## First 张军
 听讲座，广博，学风范
+https://mp.weixin.qq.com/s/bJ-a8zQz9o5IaZTGfBonUg
+> 我这学期也去听了很多讲座！！！！！
 
-
-
-## Second
+## Second 袁钧瑛
 <p>细胞是怎么死的<br>
 没人想到细胞是怎么死的<br>
 <p><
@@ -43,6 +43,7 @@
 <p>
 
 ## 火箭   翁伟樑
+https://mp.weixin.qq.com/s/eS5TczYopqrLT1hq69oj2Q
 
 他也是数学系的！！！！
 
@@ -66,3 +67,5 @@ eg：苏步青的殷殷关切
 ##
 各位同学：
 11月25日（周二）下午将在正大体育馆举行思政大课第四次专题大课教学，课程将于13:30正式开始，主讲人为曹健林老师，科学技术部原副部长、党组成员，现任季华实验室理事长、主任。
+
+https://mp.weixin.qq.com/s/YxUqb0fj4sg9SsPkDeRUVg
